@@ -12,12 +12,13 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class LoginTest_JUnit {
 
-	
+		
 			
 		 WebDriver driver;
 		 @BeforeClass
 		 public static void beforeMethod() {
 			 System.out.println("Before  Method");
+			 System.out.println("First comment 10.13");
 			 
 		 }
 		 @AfterClass
