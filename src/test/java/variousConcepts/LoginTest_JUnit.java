@@ -19,6 +19,7 @@ public class LoginTest_JUnit {
 		 public static void beforeMethod() {
 			 System.out.println("Before  Method");
 			 System.out.println("First comment 10.13");
+			 System.out.println("Second Comment 10.13");
 			 
 		 }
 		 @AfterClass
